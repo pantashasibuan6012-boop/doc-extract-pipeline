@@ -1,0 +1,1 @@
+pymupdf>=1.23.0\nPillow>=10.0.0\nhttpx>=0.25.0
